@@ -1,0 +1,102 @@
+body {
+
+    display: inline-block;
+
+
+}
+
+#menu-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:  baseline;
+    width: 1440px;
+    height: 60px;
+    
+    
+}
+
+.container #logo {
+    padding-left: 10px;
+
+   padding-top: 18px;
+  
+   padding-bottom: 10px;
+}
+
+#retangulo1 {
+
+    padding-bottom: 10px;
+    width: 300px;
+    height: 40px;
+   
+}
+
+.container #sino {
+    padding-bottom: 5px;
+    width: 150px;
+    
+    
+}
+
+
+
+
+
+.videos {
+    width: 160px;
+    height: 938px;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-left: 10px;
+}
+
+
+
+.container-2 {
+
+    display: flex;
+    padding-left: 10px;
+
+}
+
+.container-2 iframe {
+    padding-left: 30px;
+    width: 952px;
+    height: 537px;
+}
+
+#nome {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 20px;
+
+}
+
+.container-3 p {
+   
+    width: 752px;
+    padding-left: 30px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 10px;
+    
+
+}
+
+span {
+   
+    width: 950px;
+    height: 30px;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+    padding-bottom: 15px;
+    
+
+
+}
